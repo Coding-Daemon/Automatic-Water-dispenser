@@ -1,7 +1,9 @@
 # Automatic-Water-dispenser
 Automatic Water dispenser
 
-Making an automatic water dispenser by Arduino Uno 
+Making an automatic water dispenser using Arduino Uno 
+
+Step by step video- https://youtu.be/qUX4uh4SqAA 
 
 Materials :-  
 Arduino Uno -  https://www.amazon.in/Uno-ATmega328P-Compatible-ATMEGA16U2-Arduino/dp/B015C7SC5U/ref=sr_1_1?dchild=1&keywords=Arduino+Boards&qid=1591280006&sr=8-1
